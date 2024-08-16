@@ -46,7 +46,7 @@ Please refer to the [wiki](https://github.com/C0untFloyd/roop-unleashed/wiki).
 - Linux: `python run.py`
 - Dockerfile - `docker build -t roop-unleashed .`
 
-<a target="_blank" href="https://colab.research.google.com/github/Mcsavvy/roooood/blob/main/rood.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/Mcsavvy/roooood/blob/master/rood.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
   
